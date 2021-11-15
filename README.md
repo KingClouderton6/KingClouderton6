@@ -1,6 +1,13 @@
-### Hi there, I'm Alex 
+## Hi there, I'm Alex 
 
-## I'm a Web Developer, Student, and avid Grappler!
+I'm a front-end web developer, student, and avid grappler currently residing in the United Kingdom.
+
+### Get in Touch
+
+### Technologies I Work With
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
 
 <!--
 **KingClouderton6/KingClouderton6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

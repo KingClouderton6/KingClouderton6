@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Alex 
+
+## I'm a Web Developer, Student, and avid Grappler!
 
 <!--
 **KingClouderton6/KingClouderton6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
